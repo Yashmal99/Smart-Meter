@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\bc11635a3ba2b2d6273b81294c525f0f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\cef80caebf079e954cba75c8ec6ea8f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\8cdc9e6e2921cf1acbd123aa4d904e1a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\17baf236b98424f763df56413c186b02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\429b86302ce920d490588ee02b9794a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d73df2d021d9f552dc83ed97cc35b181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\3b8ad9fb48ccb6830bca058ed6e1da1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\cafca5e35363b96fb97de59861d9d606\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\9d6e00351dfa63620a27ee134c162184\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\43da94685d6ffd67353bd48ca6232e36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c4cf124da6422662e050d6ff626e7674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d4b8f78376668c4b3d1c806a753a3d55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d66b72d998e684607c683fc107fe6617\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\ad47a005f9b6059211594686c4409fd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\889234dd787c2396aa3297dbe288227e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c7d3e7ad5d11accf8771d15c581f9010\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\2354babc2196b7184dc367745f7e014a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c25ffce9c20f03649970b0ed888cf4cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\dac8b9aad0b430cba5d22698d91d5795\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7a336a07732e52b451edf42713440226\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\1b7d103682b92072251e4957c0d206e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7182721d6634a3621e27de7ad3e17b16\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\56feeadbde334970fa25c5533ddf3bbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\17cb8830ec91cac6e19af7df80b1ceee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\4c0a0f9babc6a9bee7700e0c25954952\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\642484d665fa11fd829195fc683f17c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c2d7a467dafb3adbe5ae15ce3409aa4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\560b9c9fcda644b9b07d5bf6a559df95\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\ddc75d1d9b3d166f45ee08e632caad80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\2d1c44275865503fe6d2f77429333f38\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\eedacff3be1ecbef37cfac2d21e57475\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\bc11635a3ba2b2d6273b81294c525f0f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\bc11635a3ba2b2d6273b81294c525f0f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\8cdc9e6e2921cf1acbd123aa4d904e1a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\8cdc9e6e2921cf1acbd123aa4d904e1a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\dac8b9aad0b430cba5d22698d91d5795\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\dac8b9aad0b430cba5d22698d91d5795\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7a336a07732e52b451edf42713440226\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7a336a07732e52b451edf42713440226\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\dac8b9aad0b430cba5d22698d91d5795\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.smartmeter.MainActivity
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\bc11635a3ba2b2d6273b81294c525f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\bc11635a3ba2b2d6273b81294c525f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\cef80caebf079e954cba75c8ec6ea8f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\cef80caebf079e954cba75c8ec6ea8f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\8cdc9e6e2921cf1acbd123aa4d904e1a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\8cdc9e6e2921cf1acbd123aa4d904e1a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\17baf236b98424f763df56413c186b02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\17baf236b98424f763df56413c186b02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\429b86302ce920d490588ee02b9794a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\429b86302ce920d490588ee02b9794a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d73df2d021d9f552dc83ed97cc35b181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d73df2d021d9f552dc83ed97cc35b181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\3b8ad9fb48ccb6830bca058ed6e1da1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\3b8ad9fb48ccb6830bca058ed6e1da1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\cafca5e35363b96fb97de59861d9d606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\cafca5e35363b96fb97de59861d9d606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\9d6e00351dfa63620a27ee134c162184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\9d6e00351dfa63620a27ee134c162184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\43da94685d6ffd67353bd48ca6232e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\43da94685d6ffd67353bd48ca6232e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c4cf124da6422662e050d6ff626e7674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c4cf124da6422662e050d6ff626e7674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d4b8f78376668c4b3d1c806a753a3d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d4b8f78376668c4b3d1c806a753a3d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d66b72d998e684607c683fc107fe6617\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\d66b72d998e684607c683fc107fe6617\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\ad47a005f9b6059211594686c4409fd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\ad47a005f9b6059211594686c4409fd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\889234dd787c2396aa3297dbe288227e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\889234dd787c2396aa3297dbe288227e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c7d3e7ad5d11accf8771d15c581f9010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c7d3e7ad5d11accf8771d15c581f9010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\2354babc2196b7184dc367745f7e014a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\2354babc2196b7184dc367745f7e014a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c25ffce9c20f03649970b0ed888cf4cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c25ffce9c20f03649970b0ed888cf4cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\dac8b9aad0b430cba5d22698d91d5795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\dac8b9aad0b430cba5d22698d91d5795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7a336a07732e52b451edf42713440226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7a336a07732e52b451edf42713440226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\1b7d103682b92072251e4957c0d206e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\1b7d103682b92072251e4957c0d206e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7182721d6634a3621e27de7ad3e17b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\7182721d6634a3621e27de7ad3e17b16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\56feeadbde334970fa25c5533ddf3bbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\56feeadbde334970fa25c5533ddf3bbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\17cb8830ec91cac6e19af7df80b1ceee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\17cb8830ec91cac6e19af7df80b1ceee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\4c0a0f9babc6a9bee7700e0c25954952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\4c0a0f9babc6a9bee7700e0c25954952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\642484d665fa11fd829195fc683f17c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\642484d665fa11fd829195fc683f17c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c2d7a467dafb3adbe5ae15ce3409aa4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\c2d7a467dafb3adbe5ae15ce3409aa4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\560b9c9fcda644b9b07d5bf6a559df95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\560b9c9fcda644b9b07d5bf6a559df95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\ddc75d1d9b3d166f45ee08e632caad80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\ddc75d1d9b3d166f45ee08e632caad80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\2d1c44275865503fe6d2f77429333f38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\2d1c44275865503fe6d2f77429333f38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\eedacff3be1ecbef37cfac2d21e57475\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VIKAS SONI\.gradle\caches\transforms-2\files-2.1\eedacff3be1ecbef37cfac2d21e57475\AndroidManifest.xml:20:5-44
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		ADDED from D:\SmartMeter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SmartMeter\app\src\main\AndroidManifest.xml
